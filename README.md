@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFACD&height=200&section=header&text=Hyukjun%20Kang&fontColor=FFFBEE&fontSize=40&fontAlign=50" />
+<!--     <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFACD&height=200&section=header&text=Hyukjun%20Kang&fontColor=FFFBEE&fontSize=40&fontAlign=50" /> -->
 </div>
 
 <br/> <br/>
@@ -7,8 +7,7 @@
 <h4 align="center">💪 My Stats 💪</h4>
 <div align="center" width="500">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=kanghyukjun&theme=github_dark_dimmed" alt="GitHub Streak" /></a>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kanghyukjun&theme=onedark&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
-  <br /><br />
+<!--   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kanghyukjun&theme=onedark&hide_border=true&mode=weekly" alt="GitHub Streak" /></a> -->
   <a href="https://solved.ac/deadbird00"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=deadbird00"></img></a>
 </div>
 
